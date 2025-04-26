@@ -1,0 +1,9 @@
+{
+  "name": "sumarise-functions",
+  "version": "1.0.0",
+  "description": "Netlify functions for SumaRise text summarization app",
+  "main": "summarize.js",
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}
