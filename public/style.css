@@ -38,7 +38,7 @@ body {
     font-family: 'Inter', sans-serif;
     min-height: 100vh;
     /*background: var(--bg-color);*/
-    background-image:url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Ftopic%2Fnewspaper&psig=AOvVaw2BxpXkcPJthhjEkfu_wnVj&ust=1745778356886000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjA1a2p9owDFQAAAAAdAAAAABAJ)
+    background-image: url('https://cdn.britannica.com/25/93825-050-D1300547/collection-newspapers.jpg?w=300');
     color: var(--text-color);
     display: flex;
     flex-direction: column;
