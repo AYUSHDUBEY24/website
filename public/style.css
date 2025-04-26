@@ -38,7 +38,10 @@ body {
     font-family: 'Inter', sans-serif;
     min-height: 100vh;
     /*background: var(--bg-color);*/
-    background-image: url('https://cdn.britannica.com/25/93825-050-D1300547/collection-newspapers.jpg?w=300');
+    background-image: url('https://cdn.britannica.com/25/93825-050-D1300547/collection-newspapers.jpg?'),url('https://www.newsnationnow.com/wp-content/uploads/sites/108/2023/08/64c965f438c996.16365641.jpeg?');
+    background-size: cover, contain;
+    background-repeat: no-repeat, no-repeat;
+    background-position: center, left top;
     color: var(--text-color);
     display: flex;
     flex-direction: column;
