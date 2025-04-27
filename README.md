@@ -11,7 +11,7 @@
  Select the problem statement number and title from the official list given in Participant Manual.
  
   
- **Problem Statement 6 – Create a Groq powered ai news summariser that takes in video, aduio and text feeds to deliver real time digests.**
+ **Problem Statement 1 – Weave Ai magic with Groq.**
  
  ---
  
