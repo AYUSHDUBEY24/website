@@ -130,22 +130,21 @@
  
  ## 🧬 Future Scope
  
- List improvements, extensions, or follow-up features:
- 
- - 📈 More integrations  
- - 🛡️ Security enhancements  
- - 🌐 Localization / broader accessibility  
+ List improvements, extensions, or follow-up features: 
+ improvements: to add image, video and audio as inputs. All provide users real time news or news related to the summary.
+  
  
  ---
  
  ## 📎 Resources / Credits
  
- - APIs or datasets used  
- - Open source libraries or tools referenced  
- - Acknowledgements  
+ - APIs or datasets used - Groq Api  
  
  ---
  
  ## 🏁 Final Words
+ being first years and making such project was literally fun. We got to learn so much and had to solve many problems. The idea was also
+ interesting enough to keep us engaged in developing new years. We enjoyed making and experimenting new things. Many times we faced our server
+ not responding or the request failed msg. It was like error 404 has become our friend for sometime lol. but we reolved this issue on our own.
+ Thanks to the hackathon that we were able to push our boundaries!
  
- Share your hackathon journey — challenges, learnings, fun moments, or shout-outs!
