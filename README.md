@@ -32,8 +32,10 @@
  `Reboot Rebels`
  
  ### Team Members:  
- - Ayush Dubey (GitHub / LinkedIn / Role)  
- - Ishika Garg    
+ - Ayush Dubey (GitHub-https://github.com/AYUSHDUBEY24/ LinkedIn-https://www.linkedin.com/in/ayush-dubey-430a19328/ / Role-leader)  
+ - Ishika Garg
+ - Diya Baniwal
+ - Jatin Agarwal    
  
  ### Your Approach:  
  - Why we chose this problem - We noticed that while many tools offer article summarization, few allow users to generate summaries of different lengths,
